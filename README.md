@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/terminal.svg" width="32" height="32"> LiquidBunny: offensive LLM
+<h1 align="center"> <img src=".github/bunny.png" width="32" height="32"> LiquidBunny: offensive LLM </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Codename-liquidbunny-purple?style=for-the-badge&logo=shadow&logoColor=white" />
@@ -78,17 +78,9 @@ The Manifestation is hosted on the Hugging Face Hub.
 
 <p align="left">
   <a href="https://huggingface.co/piratheon/liquidbunny">
-    <img src="https://img.shields.io/badge/Ship-Hugging%20Face-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/Hugging%20Face-black?style=for-the-badge&logo=huggingface" />
   </a>
 </p>
-
----
-
-## 🎓 Learned Skills
-
-- **Autonomous GGUF Forging:** Automated conversion from HF to GGUF with Q4_K_M quantization.
-- **Shadow Caching:** Redirecting all transient AI artifacts to a localized `.tmp` directory to preserve system integrity.
-- **Uncensored Fine-tuning:** Logic for bypassing standard safety constraints during the training of offensive security models.
 
 ---
 
