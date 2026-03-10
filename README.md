@@ -115,7 +115,7 @@ For users without local high-VRAM GPUs, the `Caedrix-Notebook_kaggle.ipynb` prov
 1. Create a new notebook on [Kaggle](https://www.kaggle.com/).
 2. Import the `Caedrix-Notebook_kaggle.ipynb` or copy the cell content.
 3. Enable **Internet Access** in the Session options.
-4. Set the **Accelerator** to **GPU T4 x1**.
+4. Set the **Accelerator** to **GPU T4 x2**.
 
 ### 2. Configuration (Secrets)
 Go to **Add-ons** → **Secrets** and add:
