@@ -9,8 +9,8 @@ mkdir -p model
 
 # Paths
 PRETRAINED_DIR="model/pretrained"
-FP16_OUT="model/Caedrix-o1-7b-f16.gguf"
-Q4_OUT="model/Caedrix-o1-7b-q4_k_m.gguf"
+FP16_OUT="model/LiquidBunny-o1-7b-f16.gguf"
+Q4_OUT="model/LiquidBunny-o1-7b-q4_k_m.gguf"
 
 # The script is now in scripts/
 CONVERT_SCRIPT="scripts/convert_hf_to_gguf.py"
