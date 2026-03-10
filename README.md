@@ -140,5 +140,5 @@ Run the cells in sequence. The notebook will:
 
 <p align="right">
   <i>"No matter where you are, everyone is always connected."</i><br>
-  <b>— Piratheon / LiquidBunny Project</b>
+  <b> Lain Iwakura </b>
 </p>
