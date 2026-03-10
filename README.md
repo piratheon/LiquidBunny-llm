@@ -1,11 +1,10 @@
 <h1 align="center"> <img src=".github/bunny.png" width="48" height="48"> <br><b>LiquidBunny: Elite Offensive LLM</b></h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Codename-liquidbunny-purple?style=for-the-badge&logo=shadow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vessel-Mistral--7B--v0.3-orange?style=for-the-badge&logo=alpinedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Manifested-green?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-Apache--2.0-blue?style=for-the-badge" />
-</p>
+<div align="center">
+  <a href"https://huggingface.co/piratheon"><img src="https://img.shields.io/badge/HuggingFace-LiquidBunny-orange?style=for-the-badge&logo=huggingface" /></a>
+  <a href"https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3"> <img src="https://img.shields.io/badge/Vessel-Mistral--7B--v0.3-orange?style=for-the-badge&logo=alpinedotjs&logoColor=white" /> </a>
+  <a href"LICENCE"><img src="https://img.shields.io/badge/License-Apache--2.0-blue?style=for-the-badge" /></a>
+</div>
 
 ---
 
