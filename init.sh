@@ -20,4 +20,4 @@ bash scripts/process_data.sh
 echo "[*] Master Initialization Complete."
 echo "    Dataset: data/offensive_train_final.jsonl"
 echo "    Virtual Env: .venv"
-echo "    Modelfile: Caedrix-o1.Modelfile"
+echo "    Modelfile: Caedrix-lb-o1.Modelfile"
