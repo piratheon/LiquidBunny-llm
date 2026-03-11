@@ -1,0 +1,11 @@
+.venv/
+.tmp/
+tmp/
+.Trash-1000/
+__pycache__/
+*.log
+data/*.jsonl
+model/*.gguf
+model/pretrained/
+.gemini/
+bin/
